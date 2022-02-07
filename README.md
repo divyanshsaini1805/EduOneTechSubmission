@@ -1,12 +1,12 @@
 # EduOneTech Submission by Divyansh Saini
 
 ## Used Tech Stacks
-####React.js - react-bootstrap, react-router-dom 
+React.js - react-bootstrap, react-router-dom 
 
-####Firebase - for auth
+Firebase - for auth
 
 
-####Netlify - for hosting
+Netlify - for hosting
 
 ### Description
 The UI designed is kept simple but goodlooking for ease of understanding,
